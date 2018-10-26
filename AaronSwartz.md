@@ -4,7 +4,7 @@
 
 2. Fue uno de los mayores colaboradores de **Markdown** y también autor de su traductor html2text.
 
-3. Fue fundador de **Reddit**.
+3. Fue fundador de **Reddit** y editor de **Wikipedia**.
  ![Reddit](https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2017/10/reddit-combo-1920-800x450.png?fit=750%2C422&ssl=1)
 4. _Swartz_ trabajó con _Virgil Griffith_ para diseñar e implementar **Tor2web** (Proxy para tener fácil acceso a Tor)
 
