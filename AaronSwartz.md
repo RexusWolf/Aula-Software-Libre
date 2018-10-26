@@ -13,7 +13,8 @@
 6. En 2008 escribió **El Manifiesto por la Guerrilla del Acceso Abierta**, en el cual presenta un llamado a la liberación y acceso libre a los artículos científicos.
 
 7. En 2010 co-fundó **Demand Progress**, comunidad que toma acción sobre libertades civiles, reformas gubernamentales y otros asuntos.
-  ![Demand Progress](https://cdn-images-1.medium.com/max/840/1*Gqnwkg-06dtFakaNWq-LSg.png)
+
+![Demand Progress](https://cdn-images-1.medium.com/max/840/1*Gqnwkg-06dtFakaNWq-LSg.png)
 
 8. El 11 de enero de 2013, **se suicidó** mientras permanecía en calidad de acusado por la Magistratura Federal de los Estados Unidos por robo de información.
 
