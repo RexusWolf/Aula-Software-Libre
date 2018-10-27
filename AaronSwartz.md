@@ -20,6 +20,6 @@
 
 8. El 11 de enero de 2013, **se suicidó** mientras permanecía en calidad de acusado por la Magistratura Federal de los Estados Unidos por robo de información.
 
-9. Adquirió la base de datos completa de la Biblioteca del Congreso de EEUU y la publicó en **Open Library**.
+9. Adquirió la base de datos completa de JSTOR desde el MIT y la publicó en **Open Library**.
 
 10. En junio de 2013, _Swartz_ fue incluido póstumamente en el **Salón de la Fama de Internet**.
